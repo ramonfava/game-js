@@ -1,2 +1,2 @@
-# game-js
-Game written in pure JS 
+# Game in JS
+Tic-tac-toe written in pure JS. 
